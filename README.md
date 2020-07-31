@@ -1,2 +1,2 @@
-# natours-sass
-Home page for travel website built using SASS
+# Natours
+Home page for travel website built with SASS
